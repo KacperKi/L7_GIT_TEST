@@ -1,0 +1,8 @@
+Generowanie tokena na dockerhubie -account settings
+https://hub.docker.com/settings/security?generateToken=true
+
+TOKEN na dockerhubie
+dla_testow2
+dckr_pat_f6e2I4WD2sUMVdERUPwRr0bf57Y
+
+
